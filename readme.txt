@@ -1,4 +1,19 @@
-	Ursache Andrei - 322CA - 2 decembrie 2014
+	Ursache Andrei - 2 decembrie 2014
+	
+	----------------------------------------------------------------------------
+	Proiect anul 2, primul semestru, la materia Programarea Orientata pe 
+	Obiecte.
+	Subiect: construirea unui editor de poze ce poate indeplini aplica diverse
+	filtre / efecte in functie de centrul de prelucrare.
+	Limbaj ales: Java
+	
+	############################     ATENTIE !!!    ############################
+	Temele sunt verificate pe VMChecker. Nu incercati sa copiati codul, deoarece
+	VMChecker verifica si sursele existente pe GitHub. In plus, fiecare tema va 
+	ajuta foarte mult daca incercati sa o realizati singuri. Asa ca, daca ai
+	ajuns aici pentru a cauta o tema, iti recomand calduros sa inchizi tab-ul cu 
+	GitHub si sa te apuci singur de ea. Spor!
+	----------------------------------------------------------------------------
 
 
 	Aspecte generale:
@@ -7,7 +22,7 @@
 clasele din template am creat si unele noi, necesare functionarii programului.
 
 	
-	Ideea generala:
+		Ideea generala:
 
 	Programul primeste ca argument in linie de comanda numele fisierului de 
 configurare pe baza caruia se creeaza centrele de mesaje si se asociaza 
@@ -22,7 +37,7 @@ lipseasca.
 cerute de catre utilizator.
 
 
-	Structura programului:
+		Structura programului:
 
 	Programul este impartit in trei pachete (+ cel default), iar ierarhia de 
 clase poate fi vizualizata astfel:
@@ -78,7 +93,7 @@ a avea o viziune mai structurata si mai flexibila a datelor si sa pot accesa
 mai intuidiv datele.
 
 
-	Implementarea programului: 
+		Implementarea programului: 
 	
 	Programul primeste ca parametru in linie de comanda numele fisierului in 
 care se gaseste configurarea centrelor de mesaje. Astfel, SimulationManager 
@@ -105,16 +120,6 @@ publicarea acestuia se va salva imaginea pe disk.
 	(!!!) 	Alte detalii referitoare la implementarea temei se regasesc in 
 			fisierele sursa si, de asemenea, in fisierele javadoc din folderul
 			/doc.
-
-
-	Nota personala:
-	
-		A fost o tema cu un enunt bine realizat (cam lung, poate unele detalii
-	nu erau strict necesare, dar, oricum mai bine mai multe detalii decat 
-	niciunul) si din acest motiv a fost cam pentru prima data cand scriu codul
-	unei teme si functioneaza din prima (in proportie de 95%) fara prea mari 
-	batai de cap. Sper si temele viitoare sa fie la fel de bine detaliate si sa
-	elimine pe cat posibil ambiguitatile.
 		
 	
 	Andrei Ursache
